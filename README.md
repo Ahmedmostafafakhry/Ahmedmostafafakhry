@@ -44,12 +44,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedmostafafakhry&layout=compact&theme=radical)  
 
 ---
-
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-el-sharkawy-1b87a9226)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedmfakhry1@gmail.com)  
+
 
 ---
 ⭐️ From [Ahmed Fakhry](https://github.com/Ahmedmostafafakhry)  
